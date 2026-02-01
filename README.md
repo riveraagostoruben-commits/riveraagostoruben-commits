@@ -9,5 +9,6 @@ My main tech stack for logic and systems is C++, Java, and Python.
 
 Tools & Tech:
 Languages: C++, Java, Python
+
 Python Libraries: Keras, TensorFlow, Pandas, Numpy, Plotly, Seaborn, XGBoost, Matplotlib, Scikit-Learn
 Version Control: Git & GitHub
